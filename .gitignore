@@ -1,0 +1,4 @@
+*.dot
+output/
+js/webdnn.js*
+model.h5
